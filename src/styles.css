@@ -1,0 +1,30 @@
+
+
+.LISTAFILMES{
+  background-color: #becad2;
+  background-size: auto;
+  min-height: 100vh;
+  
+}
+
+.custom-dropdown 
+{ /* Ajuste conforme necessário */ 
+  overflow-y: auto; }
+
+.NAVBARR{
+  background-color: #001523;
+  color: aliceblue;
+
+}
+
+.DETALHE{
+  background-color:#becad2;
+  min-height: 100vh;
+  
+}
+
+.diagrama{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
